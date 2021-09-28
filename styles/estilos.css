@@ -6,7 +6,6 @@ ul {
     list-style: none;
     padding: 10px;
     margin: 0px;
-
 }
 
 .navbar {
@@ -14,10 +13,10 @@ ul {
     justify-content: space-between;
 }
 
-<<<<<<< HEAD
 .logo {
     height:70px;
-=======
+}
+
 .mainButton {
     background-color: aqua;
     color:white;
@@ -32,5 +31,4 @@ ul {
     cursor: pointer;
     box-shadow: 3px 2px green;
     transform: scale(1.1);
->>>>>>> 5.crear-boton-nuevo-post
 }
