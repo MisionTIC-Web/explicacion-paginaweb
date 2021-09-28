@@ -13,3 +13,19 @@ ul {
     display:flex;
     justify-content: space-between;
 }
+
+.mainButton {
+    background-color: aqua;
+    color:white;
+    border: 0px;
+    padding: 5px 10px;
+    border-radius: 10px;
+    font-weight: bolder;
+    box-shadow: 1px 2px green;
+}
+
+.mainButton:hover {
+    cursor: pointer;
+    box-shadow: 3px 2px green;
+    transform: scale(1.1);
+}
